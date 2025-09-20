@@ -66,7 +66,7 @@ $ iverilog
 
 <img width="813" height="395" alt="Image" src="https://github.com/user-attachments/assets/1b149055-c903-447a-b09c-7034795e6481" />
 
-iverilog Installation Done
+✅ iverilog Installation Done
 ---
 
 ## 🚶 Step 5. Gtkwave Installtion
