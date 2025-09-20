@@ -89,6 +89,10 @@ $ ngspice
 ---
 ## ⚙️ Ngspice Tool Verification
 
+<img width="624" height="442" alt="Image" src="https://github.com/user-attachments/assets/d52c7288-73c5-4551-9cde-6a67325f0ea9" />
+
+✅ Ngspice Installation Done
+
 ---
 
 ## 🚶 Step 7. Magic VLSI – Layout Tool
