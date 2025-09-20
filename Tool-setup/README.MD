@@ -159,6 +159,16 @@ $ gtkwave
 
 ## make Test Run
 
+<img width="1002" height="626" alt="Image" src="https://github.com/user-attachments/assets/56c05bdc-64fb-413b-a656-042e28995494" />
+
+## Error in Make due to Sky PDK Version 
+
+<img width="645" height="78" alt="Image" src="https://github.com/user-attachments/assets/fdf6192a-fc7b-4c50-a95d-3a9e97df775f" />
+
+## Need committ changes in Makefile version 
+
+<img width="744" height="109" alt="Image" src="https://github.com/user-attachments/assets/5e23129c-e0b4-45db-920f-31f66e863f18" />
+
 
 
 ✅ Openlane Installation Done
