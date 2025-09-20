@@ -135,6 +135,24 @@ $ magic
 
 ✅ Magic Installation Done
 ---
+
+## 🚶 Step 7. Openlane Tool Installtion
+
+```bash
+$ 
+$ sudo apt-get update
+$ sudo apt-get install gtkwave
+## test gtkwave
+$ gtkwave
+```
+---
+## ⚙️ Openlane Tool Verification
+
+<img width="619" height="621" alt="Image" src="https://github.com/user-attachments/assets/3a7964e0-b644-4481-a0b5-a7f415353260" />
+
+✅ Openlane Installation Done
+
+
 ## 🚶🚶🚶 Tools Final Summary
 
 | Tool        | Status     | Primary Use          |
@@ -144,7 +162,7 @@ $ magic
 |3.   **GTKWave**    | ✅ Complete | For Waveform Viewing    |
 |4.   **Ngspice**    | ✅ Complete | For Circuit Simulation  |
 |5.   **Magic VLSI** | ✅ Complete | For Layout Design       |
-
+|6.   **OpenLane**   | ✅ Complete | For RTL-to-GDS flow     |
 ---
 
 🏆 Finished Week -0 Assignemtn for Building EDA tool Environment
