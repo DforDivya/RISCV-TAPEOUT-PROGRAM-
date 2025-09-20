@@ -131,16 +131,19 @@ $ magic
 ```
 ## ⚙️ Magic Tool Verification
 
+<img width="619" height="593" alt="Image" src="https://github.com/user-attachments/assets/e36d67a9-ccc6-4634-a752-04511d16b4cf" />
+
+✅ Magic Installation Done
 ---
 ## 🚶🚶🚶 Tools Final Summary
 
 | Tool        | Status     | Primary Use          |
 |-------------|------------|---------------------|
-| 🧠 **Yosys**      | ✅ Complete | For RTL Synthesis       |
-| 📟 **Iverilog**   | ✅ Complete | For Verilog Simulation  |
-| 📊 **GTKWave**    | ✅ Complete | For Waveform Viewing    |
-| ⚡ **Ngspice**    | ✅ Complete | For Circuit Simulation  |
-| 🎨 **Magic VLSI** | ✅ Complete | For Layout Design       |
+|1.  **Yosys**      | ✅ Complete | For RTL Synthesis       |
+|2.   **Iverilog**   | ✅ Complete | For Verilog Simulation  |
+|3.   **GTKWave**    | ✅ Complete | For Waveform Viewing    |
+|4.   **Ngspice**    | ✅ Complete | For Circuit Simulation  |
+|5.   **Magic VLSI** | ✅ Complete | For Layout Design       |
 
 ---
 
