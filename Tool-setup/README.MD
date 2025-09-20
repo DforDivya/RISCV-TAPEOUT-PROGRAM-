@@ -139,16 +139,20 @@ $ magic
 ## 🚶 Step 7. Openlane Tool Installtion
 
 ```bash
-$ 
-$ sudo apt-get update
-$ sudo apt-get install gtkwave
+$ sudo groupadd docker
+$ sudo usermod -aG docker $USER
+$ sudo reboot # REBOOT!
+$ git clone --depth 1 https://github.com/The-OpenROAD-Project/OpenLane.git
+cd OpenLane/
+$ make
+$ make test # This a ~5 minute test that verifies that the flow and the pdk were properly installed
 ## test gtkwave
 $ gtkwave
 ```
 ---
 ## ⚙️ Openlane Tool Verification
 
-<img width="619" height="621" alt="Image" src="https://github.com/user-attachments/assets/3a7964e0-b644-4481-a0b5-a7f415353260" />
+<img width="945" height="260" alt="Image" src="https://github.com/user-attachments/assets/057450a9-a599-4922-bbe3-86aaa68c62ed" />
 
 ✅ Openlane Installation Done
 
