@@ -154,6 +154,13 @@ $ gtkwave
 
 <img width="945" height="260" alt="Image" src="https://github.com/user-attachments/assets/057450a9-a599-4922-bbe3-86aaa68c62ed" />
 
+## Make command run 
+<img width="1007" height="491" alt="Image" src="https://github.com/user-attachments/assets/8c76fa4c-fe9e-445f-9638-4cb9aad5de58" />
+
+## make Test Run
+
+
+
 ✅ Openlane Installation Done
 
 
