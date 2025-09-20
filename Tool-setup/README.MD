@@ -9,7 +9,7 @@
 | 🧮 CPU     | 4 vCPUs        | Provides parallelism for synthesis & PnR |
 | 🐧 OS      | Ubuntu 20.04+  | Recommended version for open-source EDA tools |
 
-## ⚙️ Tool Installation & Verification 
+## ⚙️ Tool Installation
 - 👉 Copy the below commands and execute on ubuntu terminal.
 
 ## 🚶 Step 1. Git installation 
@@ -50,6 +50,7 @@ $ yosys (test yosys)
 ---
 ## ⚙️ Yosys Tool Verification
 
+
 ---
 ## 🚶 Step 4. iverilog Installtion
 ```bash
@@ -60,7 +61,7 @@ $ sudo apt-get install iverilog
 $ iverilog
 ```
 ---
-## ⚙️ iverilog  Tool Verification
+## ⚙️ iverilog Tool Verification
 
 ---
 
