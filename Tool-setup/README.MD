@@ -50,6 +50,9 @@ $ yosys (test yosys)
 ---
 ## ⚙️ Yosys Tool Verification
 
+<img width="796" height="599" alt="Image" src="https://github.com/user-attachments/assets/11334b1d-1ab6-4a74-9613-bb937953e652" />
+
+✅ yosys Installation Done
 
 ---
 ## 🚶 Step 4. iverilog Installtion
