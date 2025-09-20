@@ -80,6 +80,9 @@ $ gtkwave
 ---
 ## ⚙️ Gtkwave Tool Verification
 
+<img width="619" height="621" alt="Image" src="https://github.com/user-attachments/assets/3a7964e0-b644-4481-a0b5-a7f415353260" />
+
+✅ Gtkwave Installation Done
 ---
 ## 🚶 Step 6. Ngspice – Circuit Simulator
 ```bash
