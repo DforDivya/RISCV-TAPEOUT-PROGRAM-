@@ -21,7 +21,8 @@ In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDS
 
 | Task | Description | Status |
 |------|-------------|---------|
-| [**Task 0**](/Tool-setup/README.md) | 🛠️ [Tools Installation](/Tool-setup/README.md) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
+| [**Task 0**](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD) | 🛠️ [Tools Installation](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
+
 
 
 
