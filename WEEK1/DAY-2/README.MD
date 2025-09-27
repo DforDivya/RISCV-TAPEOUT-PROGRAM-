@@ -64,7 +64,6 @@ To open the sky130_fd_sc_hd__tt_025C_1v80.lib file we need an editor like  `gedi
    gedit sky  sky130_fd_sc_hd__tt_025C_1v80.lib
    ```
 
-<img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/7eda29a5-7e85-4e54-b3ae-271c1901fa9b">
 
 ## 📘 PVT Corners in VLSI
 ---
@@ -78,14 +77,9 @@ Corner   | Process                   | Voltage | Temp   | Use Case
 SS       | Slow NMOS, Slow PMOS      | 1.60 V  | 125 °C | Worst-case delay (Setup check)
 TT       | Typical NMOS, Typical PMOS| 1.80 V  | 25 °C  | Nominal condition
 FF       | Fast NMOS, Fast PMOS      | 1.95 V  | -40 °C | Best-case delay (Hold check)
-SF       | Slow NMOS, Fast PMOS      | 1.80 V  | 25 °C  | Stress-test (imbalanced devices)
-FS       | Fast NMOS, Slow PMOS      | 1.80 V  | 25 °C  | Stress-test (imbalanced devices)
 
----
-## 🔑 Why PVT matters?
-- ✅ **Setup timing check** → Worst-case (SS, 1.6V, 125°C)  
-- ✅ **Hold timing check** → Best-case (FF, 1.95V, -40°C)  
-- ✅ **Power analysis** → High voltage + high temp → worst leakage  
+
+
 ---
 ## Hierarchical vs. Flattened Synthesis
 To study the diffence between these styles , lets take an example of a `multiple_modules.v`.
@@ -188,18 +182,13 @@ write_verilog multiple_modules_hier1.v
 | Optimization Scope    | Module-level only                  | Whole-design                 |
 | Runtime               | Faster for large designs           | Slower for large designs     |
 | Debugging             | Easier (traces to RTL)             | Harder                       |
-| Output Complexity     | Modular structure                  | Single, complex netlist      |
-| Use Case              | Modularity, analysis, reporting    | Maximum optimization         |
+
 
 ---
 
 ## Flip-Flop Coding Styles
 
 Flip-flops are fundamental sequential elements in digital design, used to store binary data. Below are efficient coding styles for different reset/set behaviors.
-
-
-<img width="1343" height="530" alt="Image" src="https://github.com/user-attachments/assets/ac448c9b-aefb-4394-8473-58624512e56c" />
-
 
 ### Asynchronous Reset D Flip-Flop
 - Here irrespective of Clock the reset can play it role.
@@ -267,7 +256,7 @@ endmodule
    ```shell
    gtkwave tb_dff_asyncres.vcd
    ```
-<img width="939" height="422" alt="Image" src="https://github.com/user-attachments/assets/551a85a3-6e3a-44f6-8faf-321fc4d3ec8c" />
+
 
 4. *Similarly we will run the other two cases and get the below output waveforms.**
 - Synchronous Reset D Flip-Flop
