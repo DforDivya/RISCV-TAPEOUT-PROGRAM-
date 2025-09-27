@@ -64,12 +64,7 @@ end
 
 ## 2. Inferred Latches in Verilog
 
-**Inferred latches** occur when a combinational logic block does not assign a value to a variable in all possible execution paths. This causes the synthesis tool to infer a latch, which may not be the designer’s intention.
-
-- The Figure shows how latch adds in the circuit unintentionally.
-
-<img width="424" height="218" alt="Image" src="https://github.com/user-attachments/assets/20c9990f-70e1-4af7-8297-c810e807cd48" />
-
+**Inferred latches** occur when a combinational logic block does not assign a value to a variable in all possible execution paths.
 ---
 
 ### Example of Latch Inference
