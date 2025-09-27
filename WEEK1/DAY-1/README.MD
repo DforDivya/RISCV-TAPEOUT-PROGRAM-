@@ -68,17 +68,13 @@ $ cd sky130RTLDesignAndSynthesisWorkshop/verilog_files
 ```bash
 $ gtkwave tb_good_mux.vcd
 ```
-<div align="center">
-  <<img width="1291" height="419" alt="Image" src="https://github.com/user-attachments/assets/3c297358-906e-4472-996f-209994646b4c" />
-</div>
+
 
 ## 3. 📖 Verilog Code Walkthrough & Analysis
 
 **The code for the multiplexer (`good_mux.v`):**
 
-<div align="center">
-<img width="528" height="290" alt="Image" src="https://github.com/user-attachments/assets/21527d38-4ee8-4c92-b893-aeace939e13a" />
-</div>
+
 
 ```verilog
 module good_mux (input i0, input i1, input sel, output reg y);
