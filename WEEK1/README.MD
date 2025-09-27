@@ -1,4 +1,4 @@
-# WEEK-1 [RTL Design And Synthesis Workshop Using Sky130]
+# WEEK-1 RTL Design And Synthesis Workshop Using Sky130
 
 
 Welcome to the **RTL Workshop**, a hands-on learning series focused on Verilog RTL design, simulation, synthesis, and digital circuit optimization. This repository is structured into multiple days, each with its own practical labs, code examples, and explanations.
