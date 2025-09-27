@@ -125,23 +125,7 @@ A `.lib` file contains many versions of each gate (like AND, OR, NOT) with diffe
 ---
 
 ## 5. 🔧 Synthesis Lab with Yosys
-- My directory structure 
-```bash
-VLSI/
-└── sky130RTLDesignAndSynthesisWorkshop/
-    ├── DC_WORKSHOP/
-    ├── my_lib/
-    │   ├── lib/
-    │   │   └── sky130_fd_sc_hd__tt_025C_1v80.lib
-    │   └── verilog_model/
-    ├── verilog_files/
-    │   ├── good_mux.out
-    │   ├── good_mux.v
-    │   ├── tb_good_mux.v
-    │   └── tb_good_mux.vcd
-    ├── yosys_run.sh
-    └── README.md
-```
+
 -Let’s synthesize the `good_mux` design using Yosys!
 
 ###  Step-by-Step Yosys Flow
