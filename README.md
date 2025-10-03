@@ -22,8 +22,8 @@ In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDS
 | Task | Description | Status |
 |------|-------------|---------|
 | [**Task 0**](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD) | 🛠️ [Tools Installation](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
-| [**Task 1**]([https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/tree/main/WEEK1)) | 🛠️ [WEEK-1 RTL Design And Synthesis Workshop Using Sky130](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD) — Installed **RTL**, **GLS**, and **Sequential and combinational designs** | ✅ Done |
-
+| [**Task 1**]([https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/tree/main/WEEK1)) | 🛠️ [WEEK-1 RTL Design And Synthesis Workshop Using Sky130](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD) — Worked on **RTL**, **GLS**, and **Sequential and combinational designs..etc** | ✅ Done |
+| [**Task 2**]([https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/tree/main/WEEK1)) | 🛠️ [WEEK-2 RTL Design And Synthesis Workshop Using Sky130](https://github.com/DforDivya/RISCV-TAPEOUT-PROGRAM-/blob/main/Tool-setup/README.MD) — Worked on **VSD-BABYSOC RISCV LABS and Theroy** | ✅ Done |
 
 
 ###  Key Learnings from Week 0
